@@ -1,0 +1,1 @@
+awslocal sqs send-message --queue-url http://localhost:4566/00000000000/queue123 --message-body test
