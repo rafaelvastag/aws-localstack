@@ -44,5 +44,7 @@ QUEUE_ARN=$(guess_queue_arn_from_name $QUEUE_NAME)
 echo "all queues are:"
 echo "$(get_all_queues)"
 
+exit
+
 
 
