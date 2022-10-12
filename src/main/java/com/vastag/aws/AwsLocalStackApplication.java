@@ -1,3 +1,4 @@
+
 package com.vastag.aws;
 
 import org.springframework.boot.SpringApplication;
